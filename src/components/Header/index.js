@@ -1,6 +1,5 @@
 import Image from "next/image"
 import { Navbar, SpecialButton, StyledButton } from "./style"
-import { Container } from "@mui/material"
 
 const Header = () => {
 

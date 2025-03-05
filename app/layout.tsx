@@ -19,7 +19,7 @@ const almarai = Almarai({
 });
 
 const plusJakartaSans = Plus_Jakarta_Sans({
-  variable: "--font-plus-jakarta-sans",
+  variable: "--font-jakarta",
   subsets: ["latin"],
 });
 
