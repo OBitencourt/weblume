@@ -13,7 +13,7 @@ const Hero = () => {
                     justifyContent: 'center',
                     alignItems: 'center',
                     flexDirection: 'column',
-                    height: '70vh'
+                    height: '75vh'
                 }}
             >
                 <MainTitle>
