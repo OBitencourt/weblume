@@ -34,7 +34,6 @@ export const SpecialButton = styled.button`
     cursor: pointer;
     transition: all 100ms ease-in-out;
     border-radius: 4px;
-;
 
     &:hover {
         box-shadow: inset 0px 0px 24px var(--cp);

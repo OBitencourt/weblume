@@ -1,4 +1,4 @@
-
+import Techs from "../../components/Techs"
 import { Content, Divider, ServiceBox, Title } from './style'
 const Services = () => {
 
@@ -65,10 +65,10 @@ const Services = () => {
                         </p>
                     </ServiceBox>
 
-
-                    
                     
                 </Content>
+
+                <Techs />
             </section>
         </>
     )
